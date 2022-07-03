@@ -51,7 +51,7 @@ This dataset represents the 5 significant questions regarding our LGBT community
 Do follow me on [Tealfeed](https://tealfeed.com/lourdemary) , I'll go into more depth about the analysis and the methods for making the dashboard.
 
 
-NOte : 
+#### Note : 
 If you have any further information on the aforementioned concepts, please share it on my handles . Don't forget to connect me on [LinkedIn](https://www.linkedin.com/in/lourde-mary-t-470092183/) and [Github](https://github.com/Lourdemary).
 
 Have a great time and stay tuned for more !
