@@ -48,7 +48,7 @@ This dataset represents the 5 significant questions regarding our LGBT community
 #### My Dashboard 
 ![Dashboard](https://github.com/Lourdemary/Data-Omega-LGBT-Survey-Analysis/blob/main/pridemonth.png)
 
-Do follow me on ![Tealfeed](https://tealfeed.com/lourdemary) , I'll go into more depth about the analysis and the methods for making the dashboard.
+Do follow me on [Tealfeed](https://tealfeed.com/lourdemary) , I'll go into more depth about the analysis and the methods for making the dashboard.
 
 
 NOte : 
