@@ -305,5 +305,5 @@ This dataset represents the 5 significant questions regarding our LGBT community
 - Do you avoid expressing your gender (or your desired gender) through your physical appearance and clothing for fear of being assaulted, threatened or harassed?
 
 #### My Dashboard 
-![Dashboard](https://photos.app.goo.gl/nhUxVjRdF3y3JqaP8)
+![Dashboard](https://github.com/Lourdemary/Data-Omega-LGBT-Survey-Analysis/blob/main/pridemonth.png)
 
