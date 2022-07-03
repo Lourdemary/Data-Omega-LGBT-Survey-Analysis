@@ -54,7 +54,7 @@ Do follow me on [Tealfeed](https://tealfeed.com/lourdemary) , I'll go into more 
 
 (c) Lourde Mary
 
-Licensed under the [MIT License](LICENSE.md).
+Licensed under the [MIT License](LICENSE).
 
 
 #### Note : 
